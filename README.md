@@ -10,11 +10,11 @@ It showcases linked-list construction, dynamic memory management, and class desi
 ---
 
 ## Files
-main.cpp // Driver program
-parity.h // Parity class declaration
-parity.cpp // Parity implementation (deep copy, insert, min/max, etc.)
-node.h // Node class and list utility function declarations
-node.cpp // Node utility function implementations
+- main.cpp // Driver program
+- parity.h // Parity class declaration
+- parity.cpp // Parity implementation (deep copy, insert, min/max, etc.)
+- node.h // Node class and list utility function declarations
+- node.cpp // Node utility function implementations
 
 ---
 
