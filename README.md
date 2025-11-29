@@ -77,4 +77,4 @@ The min value you entered is 2
 ---
 
 ## Notes on Originality 
-This project was originally based on a homework assignment with a starter skeleton provided by the instructor. All linked-list logic, sorted insertion behavior, class functionality, dynamic memory management, and operator overloading were implemented by me using that provided structure.
+This project was originally based on an academic assignment with a starter skeleton provided by the instructor. All linked-list logic, sorted insertion behavior, class functionality, dynamic memory management, and operator overloading were implemented by me using that provided structure. This README does not claim exclusive authorship over the original skeleton, only over the work I added.
