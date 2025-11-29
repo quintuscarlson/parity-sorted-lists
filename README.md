@@ -77,4 +77,4 @@ The min value you entered is 2
 ---
 
 ## Notes on Originality 
-This project was based on an assignment with a starter skeleton provided by the instructor. The implementation of the histogram logic, statistics, and operator behavior reflects my work using that structure.
+This project was originally based on a homework assignment with a starter skeleton provided by the instructor. All linked-list logic, sorted insertion behavior, class functionality, dynamic memory management, and operator overloading were implemented by me using that provided structure.
