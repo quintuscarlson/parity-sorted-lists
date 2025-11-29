@@ -33,17 +33,18 @@ It showcases linked-list construction, dynamic memory management, and class desi
 
 ## Build Instructions
 Compile with a standard C++ compiler:
+g++ -std=c++17 main.cpp parity.cpp node.cpp -o parity  
 
-g++ -std=c++17 main.cpp parity.cpp node.cpp -o parity
 Then run:
 ./parity
 
 ---
 
 ## Usage
-The program prompts for integers:
-Enter a list of ints, one per line, 0 to end:
-The program prints:
+**The program prompts for integers:**  
+Enter a list of ints, one per line, 0 to end:  
+
+**The program prints:**
 - Sorted even values
 - Sorted odd values
 - Minimum value
@@ -52,19 +53,19 @@ The program prints:
 ---
 
 ## Example
-Input:
-4
-7
-2
-9
-5
-0
+**Input:**    
+4  
+7  
+2  
+9  
+5  
+0  
 
-Output:
-Evens: 2, 4
-Odds: 5, 7, 9
-The max value you entered is 9
-The min value you entered is 2
+**Output:**    
+Evens: 2, 4  
+Odds: 5, 7, 9  
+The max value you entered is 9  
+The min value you entered is 2  
 
 ---
 
