@@ -32,10 +32,10 @@ It showcases linked-list construction, dynamic memory management, and class desi
 ---
 
 ## Build Instructions
-Compile with a standard C++ compiler:
+**Compile with a standard C++ compiler:**
 g++ -std=c++17 main.cpp parity.cpp node.cpp -o parity  
 
-Then run:
+**Then run:**
 ./parity
 
 ---
@@ -69,7 +69,12 @@ The min value you entered is 2
 
 ---
 
-## Notes
+## Additional Information
 - 0 is the sentinel value and is not stored.
 - Both lists maintain non-decreasing order.
 - min() and max() return valid values from either list; if both are empty, they return 0.
+
+---
+
+## Notes on Originality 
+This project was based on an assignment with a starter skeleton provided by the instructor. The implementation of the histogram logic, statistics, and operator behavior reflects my work using that structure.
