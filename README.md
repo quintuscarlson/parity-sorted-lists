@@ -34,7 +34,6 @@ node.cpp // Node utility function implementations
 ## Build Instructions
 Compile with a standard C++ compiler:
 
-```bash
 g++ -std=c++17 main.cpp parity.cpp node.cpp -o parity
 Then run:
 ./parity
